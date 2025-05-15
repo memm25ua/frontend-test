@@ -5,6 +5,7 @@ Este repositorio contiene la solución a la prueba técnica para la creación de
 ## Descripción
 
 La aplicación permite:
+
 - Listar productos (dispositivos móviles) obtenidos desde una API.
 - Filtrar productos por marca y modelo en tiempo real.
 - Visualizar detalles de cada producto.
