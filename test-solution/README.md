@@ -20,7 +20,7 @@ Este proyecto es una solución para la prueba técnica de tienda de dispositivos
 
 Sigue las instrucciones de la prueba para continuar con el desarrollo.
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
